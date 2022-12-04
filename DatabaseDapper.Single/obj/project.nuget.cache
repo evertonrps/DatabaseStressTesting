@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D+flojSu/N88n2QvXJqb05nW2vvHnnoGHkQuvlYIaYiAXzSHnoVzCc4/feQlDlPmFN0ZYDyWhzeRW1r+rE+AjA==",
+  "success": true,
+  "projectFilePath": "c:\\Git\\DatabaseStressTesting\\DatabaseDapper.Single\\DatabaseDapper.Single.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evert\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.logging.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512"
+  ],
+  "logs": []
+}

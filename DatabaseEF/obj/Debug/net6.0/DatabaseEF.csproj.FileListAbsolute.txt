@@ -1,0 +1,12 @@
+C:\Git\DatabaseStressTesting\DatabaseEF\bin\Debug\net6.0\DatabaseEF.deps.json
+C:\Git\DatabaseStressTesting\DatabaseEF\bin\Debug\net6.0\DatabaseEF.dll
+C:\Git\DatabaseStressTesting\DatabaseEF\bin\Debug\net6.0\ref\DatabaseEF.dll
+C:\Git\DatabaseStressTesting\DatabaseEF\bin\Debug\net6.0\DatabaseEF.pdb
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.csproj.AssemblyReference.cache
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.AssemblyInfoInputs.cache
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.AssemblyInfo.cs
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.csproj.CoreCompileInputs.cache
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.dll
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\ref\DatabaseEF.dll
+C:\Git\DatabaseStressTesting\DatabaseEF\obj\Debug\net6.0\DatabaseEF.pdb

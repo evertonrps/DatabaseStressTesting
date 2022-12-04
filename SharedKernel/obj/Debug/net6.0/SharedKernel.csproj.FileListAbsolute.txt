@@ -1,0 +1,12 @@
+C:\Git\DatabaseStressTesting\SharedKernel\bin\Debug\net6.0\SharedKernel.deps.json
+C:\Git\DatabaseStressTesting\SharedKernel\bin\Debug\net6.0\SharedKernel.dll
+C:\Git\DatabaseStressTesting\SharedKernel\bin\Debug\net6.0\ref\SharedKernel.dll
+C:\Git\DatabaseStressTesting\SharedKernel\bin\Debug\net6.0\SharedKernel.pdb
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.csproj.AssemblyReference.cache
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.AssemblyInfo.cs
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.dll
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\ref\SharedKernel.dll
+C:\Git\DatabaseStressTesting\SharedKernel\obj\Debug\net6.0\SharedKernel.pdb

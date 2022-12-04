@@ -1,0 +1,12 @@
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\bin\Debug\net6.0\DatabaseDapper.Multi.deps.json
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\bin\Debug\net6.0\DatabaseDapper.Multi.dll
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\bin\Debug\net6.0\ref\DatabaseDapper.Multi.dll
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\bin\Debug\net6.0\DatabaseDapper.Multi.pdb
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.csproj.AssemblyReference.cache
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.AssemblyInfoInputs.cache
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.AssemblyInfo.cs
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.csproj.CoreCompileInputs.cache
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.dll
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\ref\DatabaseDapper.Multi.dll
+C:\Git\DatabaseStressTesting\DatabaseDapper.Multi\obj\Debug\net6.0\DatabaseDapper.Multi.pdb

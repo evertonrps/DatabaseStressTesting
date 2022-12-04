@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tImKHR4WDqxqzdC3Df5ZW+BkVsykMu0xliDjkUL0M8vjWPG6TZD2rK9I2lyEPisLPmatgQkSJ0Ge8sc18e9C4Q==",
+  "success": true,
+  "projectFilePath": "c:\\Git\\DatabaseStressTesting\\DatabaseDapper.Multi\\DatabaseDapper.Multi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evert\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
