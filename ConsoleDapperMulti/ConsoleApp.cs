@@ -7,14 +7,14 @@ public class ConsoleApp
 {
     private readonly ILogger<ConsoleApp> _logger;
     private readonly ILeadRepository _leadRepository;
-    private SpinWait spinWait;
+    private SpinWait _spinWait;
 
     public ConsoleApp(ILogger<ConsoleApp> logger,
         ILeadRepository leadRepository)
     {
         _logger = logger;
         _leadRepository = leadRepository;
-        spinWait = new SpinWait();
+        _spinWait = new SpinWait();
     }
 
     public async void Run()
@@ -46,7 +46,7 @@ public class ConsoleApp
                 }
             }
 
-            spinWait.SpinOnce();
+            _spinWait.SpinOnce();
         }
         catch (Exception ex)
         {
